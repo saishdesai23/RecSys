@@ -1,4 +1,4 @@
 # RecSys
 Recommendation System for Spotify Playlists
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nsanka/RecSys)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://saishdesai23-recsys-d81rae7zdvy.ws-us105.gitpod.io/)
